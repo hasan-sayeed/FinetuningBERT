@@ -1,1 +1,3 @@
-# FinetuningBERT
+## FinetuningBERT
+
+This is a mini-project for class [CS 6957 - NLP with Deep Learning](https://svivek.com/teaching/deep-learning-nlp/fall2023//index.html). In this project, BERT-based classifiers was trained for two tasks: (i) textual entailment and (ii) sentiment classification. Two smaller variants of BERT — tiny and mini — was utilized for these tasks. During the classifier construction, we employed both the fine-tuning BERT approach and the non-fine-tuning BERT approach.
